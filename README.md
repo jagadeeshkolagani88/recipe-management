@@ -15,7 +15,8 @@ name → Stores recipe name
 ingredientCount → Number of ingredients
 ingredients → List of ingredient names
 ⚙️ Functionalities
-➕ 1. Add Recipe (addRecipe)
+➕ 
+1. Add Recipe (addRecipe)
 Adds a new recipe to the system
 Takes recipe name and ingredients as input
 Stores data in a global array
